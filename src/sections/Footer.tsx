@@ -31,7 +31,7 @@ const Footer = () => {
           <div className='flex items-center mb-4'>
             <Link href="/" className="block">
               <Image
-                src='/logo.svg'
+                src='/brand.svg'
                 alt='AssureRates Logo'
                 width={120}
                 height={30}
